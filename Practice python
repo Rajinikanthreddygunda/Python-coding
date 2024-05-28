@@ -1,1 +1,3 @@
-
+Fruits = ["apple, "berries", "Mangos", "Banana"]
+a,b,c,d,e = Fruits
+print("I want to eat", + e)
